@@ -1,0 +1,20 @@
+<main id="main">
+  <head>
+  
+  </head>
+  <body>
+    <div>
+    <h1 id="title"> Darius McCollum </h1>
+    <p> Transit hero, champion of direct action</p>
+    </div>
+    <div id="img-div">
+    <figure id="image" src="https://cdn.newsday.com/polopoly_fs/1.12634156.1479674495!/httpImage/image.jpeg_gen/derivatives/landscape_768/image.jpeg" alt="Darius McCollum, transit hero, stands before a passing subway train."/>
+    <figcaption id="image-caption"> <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Darius_McCollum">Darius McCollum</a> is primarily known for posing as New York City Subway motorman and bus driver and operating subway trains and buses. McCollum is a New York City resident with a lengthy arrest record for interfering with the system typically operated by the New York City Metropolitan Transportation Authority (MTA). He has been fascinated with trains since his childhood. </figcaption>
+    </div>
+    <div id="tribute-info">
+    McCollum has been interested in trains from an early age, frequently riding the New York City Subway for days at a time. His fixation with trains has led McCollum to frequently impersonate MTA employees or a related entity, for which he has been jailed numerous times. McCollum has been rejected for employment by MTA on numerous occasions, although he is reported to know more about the trains, schedules, procedures and rail operations than any current employee.
+
+A prison psychiatrist who did an evaluation diagnosed him with Asperger syndrome. McCollum is said to have memorized the New York City Subway map by age 8.
+    </div>
+  </body>
+</main>
